@@ -1,4 +1,4 @@
-package com.example.learn_shop_app_4
+package com.behlahinfotech.shop_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
